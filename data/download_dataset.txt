@@ -1,0 +1,2 @@
+# download dataset from here : https://www.kaggle.com/datasets/willyard/spam-email-dataset 
+# rename it to gmails.csv and put it in SPAM_DETECTOR/data/raw directory
